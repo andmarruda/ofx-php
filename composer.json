@@ -21,7 +21,7 @@
     },
     "autoload":  {
         "files": [
-            "/ofx.php
+            "/ofx.php"
         ]
     },
     "homepage": "https://github.com/andmarruda/ofx-php",
