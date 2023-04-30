@@ -1,0 +1,29 @@
+{
+    "name": "andmarruda/ofx-php",
+    "type": "library",
+    "description": "Simple OFX Reader",
+    "keywords": [
+        "OFX",
+        "php",
+        "balance",
+        "extract reader",
+        "financial movements"
+    ],
+    "authors": [
+      {
+          "name": "Anderson Matheus Arruda",
+          "email": "andmarruda@gmail.com",
+          "role": "developer"
+      }
+    ],
+    "require": {
+        "php": ">=8.1"
+    },
+    "autoload":  {
+        "files": [
+            "/ofx.php
+        ]
+    },
+    "homepage": "https://github.com/andmarruda/ofx-php",
+    "license": "MIT"
+}
